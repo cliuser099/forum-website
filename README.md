@@ -1,2 +1,2 @@
 # forum
-A forum website developed using Bootstrap, PHP, MySQL
+A forum website developed using Bootstrap, PHP and MySQL.
