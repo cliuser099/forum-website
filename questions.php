@@ -55,7 +55,6 @@
 		<div class="jumbotron pb-2 pt-2">
 		  <h1 class="display-4">Welcome to <?php echo $catname; ?></h1>
 		  <p class="lead"><?php echo $catdesc; ?></p>
-		  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 		</div>
 	</div>
 
